@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650990946&idx=1&sn=ed5554aa270a9a29cd7029ae10460efd
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247775&idx=1&sn=0a851ba2205a3466f75d593c4698f5fe
 
 #  威胁情报 | Confucius 组织最新组件化后门 anondoor 披露  
-原创 404高级威胁情报  知道创宇404实验室   2025-06-20 07:59  
+ 白帽子   2025-06-20 10:11  
   
 **作****者：知道创宇404高级威胁情报团队**  
   
