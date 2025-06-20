@@ -15591,5 +15591,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116686&idx=2&sn=6528b7da213e0895a48a14ee1b8e27b4": "2025-W25/2025-06-20/Veeam备份和复制中CVSS评级为9.9的严重RCE漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490279&idx=1&sn=444e48ca2685746c17e8e59f2255a436": "2025-W25/2025-06-20/【漏洞预警】DedeCMS命令执行漏洞(CVE-2025-6335).md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486247&idx=1&sn=baa2652154b28f0369eb43fb6b5cd34a": "2025-W25/2025-06-20/工具集：GoExec【Windows内网横向新工具】.md",
-    "https://mp.weixin.qq.com/s?__biz=MzIyNzc3OTMzNw==&mid=2247485927&idx=1&sn=aaae73d34c7eb96d1440870b21c03105": "2025-W25/2025-06-20/工具分享 | 一款高价值漏洞情报爬取工具.md"
+    "https://mp.weixin.qq.com/s?__biz=MzIyNzc3OTMzNw==&mid=2247485927&idx=1&sn=aaae73d34c7eb96d1440870b21c03105": "2025-W25/2025-06-20/工具分享 | 一款高价值漏洞情报爬取工具.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485966&idx=1&sn=502623af4e680d22ab43973a413eee69": "2025-W25/2025-06-20/【漏洞复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817).md"
 }
