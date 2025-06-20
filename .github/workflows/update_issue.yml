@@ -1,0 +1,49 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: update
+
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Write Issue Content to Temp File
+      run: |
+        issue_body=$(jq -r ".issue.body" "$GITHUB_EVENT_PATH")
+        echo "$issue_body" > /tmp/issue_content.txt
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: update
+      env: 
+         GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        python run.py issue | tee /tmp/update.log
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "791751568@qq.com"
+        git config --global user.name "大清第一巴图鲁"
+        git add .
+        MESSAGE=$(cat /tmp/update.log)
+        COMMIT_MESSAGE="$MESSAGE"
+        git diff-index --quiet HEAD || git commit -m "$(echo -e "$COMMIT_MESSAGE")"
+        git push
+    - name: Close Issue
+      run: |
+        TOKEN=${{ secrets.GH_TOKEN }}
+        ISSUE_NUMBER=$(jq -r ".issue.number" "$GITHUB_EVENT_PATH")
+        API_URL="https://api.github.com/repos/${GITHUB_REPOSITORY}/issues/${ISSUE_NUMBER}"
+        curl -X PATCH -H "Authorization: token $TOKEN" -d '{"state":"closed"}' $API_URL
