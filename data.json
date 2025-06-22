@@ -15617,5 +15617,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503212&idx=1&sn=88f281f0ad37bbdd263bf1727f31e624": "2025-W25/2025-06-21/【攻防实战】实战中的Access注入.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDU4OTQ1NA==&mid=2247484712&idx=1&sn=02ff86815b2cb114cbfcea520ff2db51": "2025-W25/2025-06-21/内网横行：CVE-2025-33073漏洞分析与攻击复现.md",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjYyMjA3Mg==&mid=2247485489&idx=1&sn=fcc1f9e7d998433c8f71cba54982f0d6": "2025-W25/2025-06-21/Se8_Sorcery(user部分).md",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488147&idx=1&sn=b7dcde65044806a8c881b16e905637ee": "2025-W25/2025-06-21/高危预警：Linux本地提权漏洞链（CVE-2025-6018、CVE-2025-6019）可秒获Root权限（含POC）.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488147&idx=1&sn=b7dcde65044806a8c881b16e905637ee": "2025-W25/2025-06-21/高危预警：Linux本地提权漏洞链（CVE-2025-6018、CVE-2025-6019）可秒获Root权限（含POC）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486381&idx=1&sn=027accf79c46ae004c1443ec79150b2d": "2025-W25/2025-06-22/Laoyue-自动化监控SRC赏金项目，提供多种工具集成和自动化功能，加快漏洞发现和报告流程.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492268&idx=1&sn=c26d20b9d0536f81ba6365accbbce35b": "2025-W25/2025-06-22/内网渗透-权限维持.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492201&idx=1&sn=3a6c575e0bba0f8d05cc8af88125a412": "2025-W25/2025-06-22/CVE-2025-27817 Apache Kafka Connect 任意文件读取漏洞分析与复现.md"
 }
