@@ -15747,5 +15747,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484831&idx=1&sn=7375e6ef426b4fd5a0821baee05fcf67": "2025-W26/2025-06-24/【CVE‑2025‑49144】Notepad++提权漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531265&idx=1&sn=19e218b029466f8e4f24059b96021fae": "2025-W26/2025-06-24/Notepad++漏洞 PoC 发布，可提升权限至 NT AUTHORITY\\SYSTEM.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDU4OTQ1NA==&mid=2247484735&idx=1&sn=af7af64dc94f3a3e03211889d55b5fb6": "2025-W26/2025-06-24/内网横行：CVE-2025-33073 实战场景利用全流程指南 | 附利用工具.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503440&idx=1&sn=d8b69e0070a73f607d010c0c6158d535": "2025-W26/2025-06-24/雷神众测漏洞周报2025.6.16-2025.6.22.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503440&idx=1&sn=d8b69e0070a73f607d010c0c6158d535": "2025-W26/2025-06-24/雷神众测漏洞周报2025.6.16-2025.6.22.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625266&idx=1&sn=7d747f1cb8f470b24f724c87fde28ece": "2025-W26/2025-06-24/使用 UDS 自动发现 ECU - UDS是否是一个安全漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484380&idx=1&sn=b7fa367d77e1483cb8a5a87d1478e578": "2025-W26/2025-06-24/【漏洞复现】一次不一样的逻辑绕过.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247500804&idx=1&sn=90ea09bbfd5425c07de64038416c6ec8": "2025-W26/2025-06-24/【紧急补丁】Veeam 12.3.2 发布，修复 CVE‑2025‑23121（9.9分 RCE）及两项高危权限滥用漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573665&idx=1&sn=3434e974ea211140d44bfb73f4a22235": "2025-W26/2025-06-24/记一次域渗透从打点到内网.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501221&idx=2&sn=4a833bc0c5b81084001551c46f420b29": "2025-W26/2025-06-24/【漏洞通告】Notepad++ v8.8.1安装程序特权提升漏洞 (CVE-2025-49144).md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512932&idx=1&sn=20365ad5978c47084a2fe90b8593d2ca": "2025-W26/2025-06-24/威胁情报：Notepad++ 本地提权漏洞 | POC已公开.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MTAzNjYyMA==&mid=2650600286&idx=1&sn=bbfaad59c5ec50ecd9704f5cd50e9618": "2025-W26/2025-06-24/被用户问麻了！深信服防银狐最新攻略，立即收藏！.md"
 }
