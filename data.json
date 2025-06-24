@@ -15705,5 +15705,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492621&idx=1&sn=480d4244338efa136786fb91bf7d0dad": "2025-W26/2025-06-23/2025最新AWVS∕Acunetix V25.4高级版更新( AI∕ML预测功能)漏洞扫描器Windows下载.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491161&idx=1&sn=040f03ce7d9ec307c99dfa855516ec64": "2025-W26/2025-06-23/2025年攻防演练必修高危漏洞合集.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497672&idx=1&sn=aa31b65773592f3618573abad3603b67": "2025-W26/2025-06-23/F5 BIG-IP RCE：重温解析差异导致的身份认证绕过.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484903&idx=1&sn=7625c60e3e5bdc390647f5f13ee218a1": "2025-W26/2025-06-23/原版瞬间不香了！这款SQL注入插件被悄悄二开.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484903&idx=1&sn=7625c60e3e5bdc390647f5f13ee218a1": "2025-W26/2025-06-23/原版瞬间不香了！这款SQL注入插件被悄悄二开.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484700&idx=1&sn=3975752bd19d84f8561d610262fd94e2": "2025-W26/2025-06-24/【技术分享】MQTT未授权访问漏洞利用方式.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486827&idx=1&sn=a25724a950ba87c0352ab769c3f88bb2": "2025-W26/2025-06-24/CVE-2021-41773 漏洞复现：从失败到成功的探索.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512915&idx=1&sn=980ee53bc8be3e28be4df58f190231b5": "2025-W26/2025-06-24/APT组织广泛使用的16款热门C2框架 | 你用过那些？.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515203&idx=1&sn=aa65a6a18fdb558e811f8b9c1010a23c": "2025-W26/2025-06-24/台海热点诱饵！旺刺组织结合 0day 和 ClickOnce 技术开展间谍活动.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491620&idx=1&sn=8917170e1628186b772f4eff20c61b8c": "2025-W26/2025-06-24/清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月23日.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499946&idx=2&sn=f5519114e89422780ee391e47dc96fbe": "2025-W26/2025-06-24/.NET内网实战：.NET 通过APC注入绕过终端安全防护.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=3&sn=4b001afef13dfb610260d65092c7a22e": "2025-W26/2025-06-24/漏洞预警 | 宏景eHR SQL注入漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=2&sn=7928bf75a665a3f3f2320e3eae44f879": "2025-W26/2025-06-24/漏洞预警 | JimuReport信息泄露漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247497866&idx=3&sn=d363efd42c49377e2637a4d4a0ddee08": "2025-W26/2025-06-24/涉数据安全漏洞与隐私风险 中国医疗设备厂商在美国遭遇诉讼.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900800&idx=1&sn=5206926e487bdb80079965ea12d1e150": "2025-W26/2025-06-24/AI开发框架成黑客新“肉鸡”：Langflow高危漏洞被利用组建DDoS僵尸网络.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489509&idx=1&sn=c5820741e13804146977fd7353102d67": "2025-W26/2025-06-24/百万POC实时更新.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247492497&idx=1&sn=03f8451b958e800446b6efaca2b866a0": "2025-W26/2025-06-24/银狐黑产组织最新免杀变种样本分析.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=1&sn=9c590617818f23d89234775a6c23dac4": "2025-W26/2025-06-24/漏洞预警 | Veeam Backup & Replication远程代码执行漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506694&idx=1&sn=948c2e028a394900aa36f9fa79c083f5": "2025-W26/2025-06-24/图形化内网渗透工具Viper-v3.1.7（更新）.md"
 }
