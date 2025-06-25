@@ -15767,5 +15767,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531289&idx=1&sn=5722bb18f3e15632dd080ec4df5c6ca7": "2025-W26/2025-06-25/Node.js < 3.0.0 pbkdf2 漏洞 PoC 公开：Uint8Array 输入被静默忽略导致静态密钥输出.md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611176&idx=2&sn=d245aba5b4fef5f22ba543ba93694efb": "2025-W26/2025-06-25/Notepad++ 存在严重权限提升漏洞，PoC已发布.md",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583273&idx=2&sn=ce0439da8df2defdd6d651427c17276a": "2025-W26/2025-06-25/「新威胁频出，实战者集结！」CSOP 2025网络安全运营实战大会8月北京启幕.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908373&idx=1&sn=809508815394b08b8abbad379888a7f0": "2025-W26/2025-06-25/微软MSRC的漏洞情报“剽窃”策略.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908373&idx=1&sn=809508815394b08b8abbad379888a7f0": "2025-W26/2025-06-25/微软MSRC的漏洞情报“剽窃”策略.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247484518&idx=1&sn=74adb9aeec2b4682747a29323449abb3": "2025-W26/2025-06-25/打穿AD域漏洞CVE-2025-33073的矛与盾 - 域安全.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484473&idx=1&sn=72dbb861fc8336a1ec596800f5ed6f51": "2025-W26/2025-06-25/靶场攻防|SSRF漏洞打穿内网（1）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU2Mjg1NjY4Nw==&mid=2247490692&idx=1&sn=dc8c2736d948899825fbd4e6009b3def": "2025-W26/2025-06-25/【涨知识】银狐新木马加密通信分析.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488669&idx=1&sn=6bf60d1b46f7bc65baea56698b8444da": "2025-W26/2025-06-25/Geoserver GeoTools存在XXE漏洞CVE-2025-30220 附POC.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzYwNDU0Mg==&mid=2649252647&idx=3&sn=1fce4b2a059071067f6ad16365c0e3f2": "2025-W26/2025-06-25/【新思想引领新征程】我国人工智能领域快速发展 为高质量发展注入新动能.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484471&idx=1&sn=cf743831abccc0a1a5cb46208a1f6ee5": "2025-W26/2025-06-25/Springboot图形化漏洞利用工具.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070323&idx=2&sn=7af7cb53b8b7e4a1d4806a0720c6613b": "2025-W26/2025-06-25/【安全圈】美众议院：WhatsApp存严重安全漏洞，禁止在办公设备使用.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531295&idx=1&sn=eb0ef566f205a850da5af7a89d54fbc7": "2025-W26/2025-06-25/Internet 快捷方式文件远程代码执行漏洞 CVE-2025-33053 概念验证（PoC）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248146&idx=1&sn=5ef4c9942a320bc7e46b5d456b4ec346": "2025-W26/2025-06-25/Notepad++ 存在严重权限提升漏洞，PoC已发布 | 史上最大规模DDoS攻击在短短45秒内传输了37.4TB的恶意流量.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486005&idx=1&sn=264eaaced170be759dbfc03828c82d65": "2025-W26/2025-06-25/【威胁情报】：Notepad++ 本地提权漏洞 | POC目前已公开.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323665&idx=4&sn=5cb47657df2c570bb3840e433f112670": "2025-W26/2025-06-25/XDigo恶意软件利用Windows LNK漏洞攻击东欧政府机构.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484672&idx=2&sn=aeea37c14fd2fbb78651f40575673751": "2025-W26/2025-06-25/Notepad++ 存严重提权漏洞,PoC 已流出.md"
 }
