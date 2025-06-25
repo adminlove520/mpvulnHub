@@ -15814,5 +15814,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531318&idx=1&sn=5495b33965ce946dd8209ec865cc0978": "2025-W26/2025-06-25/剖析 CVE-2024-12695：利用 V8 中的 Object.assign().md",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596252&idx=3&sn=3870fcc4fac639f2b1fa7dc71dcbdf97": "2025-W26/2025-06-25/NVIDIA Megatron LM 重大漏洞曝光，攻击者可注入恶意代码，用户需立即升级.md",
     "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247580965&idx=2&sn=ed22bbf26bc5adf61e7bfd2713d06a72": "2025-W26/2025-06-25/日均拦截近十万次！银狐木马利用虚假文档钓鱼，政企机构需警惕.md",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137321&idx=2&sn=3b273292ef01a662bff4e7e856dd6634": "2025-W26/2025-06-25/美国遭遇黑客活动分子大规模DDoS攻击，与伊朗轰炸事件相关；小米互联互通应用严重漏洞允许黑客未授权访问用户设备| 牛览.md"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137321&idx=2&sn=3b273292ef01a662bff4e7e856dd6634": "2025-W26/2025-06-25/美国遭遇黑客活动分子大规模DDoS攻击，与伊朗轰炸事件相关；小米互联互通应用严重漏洞允许黑客未授权访问用户设备| 牛览.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492665&idx=1&sn=9fbe571d7111030b9c4ceba172cdaa2a": "2025-W26/2025-06-25/漏洞复现 || GeoServer XXE漏洞 (CVE-2025-30220).md",
+    "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247525817&idx=1&sn=2acd639eb41660568b52be7345601c65": "2025-W26/2025-06-25/安全通告丨网络安全漏洞通告（2025年6月）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573676&idx=1&sn=e886de4de4e7bab19b5e175e478473af": "2025-W26/2025-06-25/6款较流行的开源漏洞扫描工具推荐及特点分析.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070352&idx=3&sn=cc4501ba6fd8153a01376bad11487244": "2025-W26/2025-06-25/【安全圈】TeamViewer 高危漏洞通报（CVE-2025-36537）.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323714&idx=3&sn=e66361c25b0dba9cb07f228b450a60c9": "2025-W26/2025-06-25/WinRAR目录遍历漏洞允许通过恶意文件执行任意代码.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492046&idx=1&sn=01a742e4329db61125a8bb709a3c781b": "2025-W26/2025-06-25/安利一款桌面应用流量拦截神器：InterceptSuite 让加密通信无处遁形.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501227&idx=2&sn=6dd4eb38653a88948107ed6a38964031": "2025-W26/2025-06-25/【漏洞通告】WinRAR 路径处理漏洞导致远程代码执行 (CVE-2025-6218).md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTg0OTAyOQ==&mid=2247486408&idx=1&sn=1bfd3955a5d7b389378c84a184507ffc": "2025-W26/2025-06-25/【国内网安政策简评】《政务数据共享条例》发布，明确机制、体系和安全要求.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070352&idx=1&sn=9573739f37e8a86bc0919cf885160204": "2025-W26/2025-06-25/【安全圈】“银狐”木马新变种席卷全国：数千企业员工遭网络钓鱼诈骗.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490307&idx=2&sn=6df93de7148487ec4029f4396726754d": "2025-W26/2025-06-25/【高危漏洞预警】Pterodactyl代码执行漏洞(CVE-2025-49132).md",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNDIzNTcxMg==&mid=2247508485&idx=1&sn=014a3820c2af92d02b13486bfa05515d": "2025-W26/2025-06-25/数字安全大会｜观安信息：赋能智算时代安全运营 驱动数智安全协同发展.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483910&idx=1&sn=213863db5a9b86c813db99bade0660e1": "2025-W26/2025-06-25/Java代码审计第七章-任意文件上传漏洞（上）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490307&idx=1&sn=bac7469bf34eee680054d677b1c056ec": "2025-W26/2025-06-25/【高危漏洞预警】 Gogs内部文件删除致远程命令注入漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641086&idx=2&sn=7947f21af9546a6522db29daeb6323b0": "2025-W26/2025-06-25/直播预告 | 攻防演练季应急自救指南-0Day∕NDay来袭，传统防护失效下该如何破局?.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555247&idx=1&sn=a7196eceb681af8cdcbd0cb4df87f1b9": "2025-W26/2025-06-25/nps之Socks流量分析以及未授权复现.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489523&idx=1&sn=7a64c5b7c5c623d232ed0a4980cf9f10": "2025-W26/2025-06-25/渗透测试｜某单位从敏感三要素泄露到接管管理员的漏洞挖掘之旅.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523373&idx=1&sn=046fdf8814e8311d4a31bd092804a2c2": "2025-W26/2025-06-25/思杰修复 NetScaler ADC 和 Gateway 中的严重漏洞.md"
 }
