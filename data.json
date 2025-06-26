@@ -15842,5 +15842,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487506&idx=1&sn=ae4548401f0742a5310d845fb05b46ae": "2025-W26/2025-06-25/内网穿透|无需域名的十多款内网穿透方案选择.md",
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492852&idx=1&sn=63aa481b46b0e2ccc42748ad0107467f": "2025-W26/2025-06-25/【已复现】Gogs 远程命令执行漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492658&idx=1&sn=083e602f09f084017608fce4fb9b60d5": "2025-W26/2025-06-25/VulnCrawler v2.0- 漏洞情报拉取工具 一键抓取最新漏洞|漏洞探测.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTUyODMwNA==&mid=2247494652&idx=1&sn=78492b996d2ca715ac2cb3261b21b7bb": "2025-W26/2025-06-25/针对麦克风阵列的激光命令注入攻击.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTUyODMwNA==&mid=2247494652&idx=1&sn=78492b996d2ca715ac2cb3261b21b7bb": "2025-W26/2025-06-25/针对麦克风阵列的激光命令注入攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=3&sn=e9ebcf261289a95fb9471fcac2883806": "2025-W26/2025-06-26/漏洞预警 | 泛微E-Cology SQL注入漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzkxOTQ0OA==&mid=2247484573&idx=1&sn=aceeff40c7236693b32fabb68ee8ab3b": "2025-W26/2025-06-26/XDigo 恶意软件利用 Windows LNK 漏洞对东欧政府发动攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491645&idx=1&sn=6961f6e6b2bf79b4616ac3459e85f91c": "2025-W26/2025-06-26/清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月25日.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=2&sn=f6b4bc85401b58e71cdb7aa704901f29": "2025-W26/2025-06-26/漏洞预警 | 云课网校系统任意文件上传漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247492528&idx=1&sn=67271eea05d6f9e973d3527c9693d004": "2025-W26/2025-06-26/勒索USDT稳定币的新型勒索病毒分析与解密.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499955&idx=1&sn=46257e085680fe9947bc90925d324f23": "2025-W26/2025-06-26/.NET 介绍一种漏洞挖掘思路，绕过 GZip 实现反序列化.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795544&idx=2&sn=c4b3f53fda7cbd38f267401a4b6af0eb": "2025-W26/2025-06-26/新漏洞使数百万台 Brother 打印机面临黑客攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=1&sn=1ccc756f815c32f18e26fef511666ec0": "2025-W26/2025-06-26/漏洞预警 | Linux本地提权漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247511358&idx=1&sn=668ea03605884eaaecd7c4d02890cc31": "2025-W26/2025-06-26/Brother、富士等多型打印机曝严重漏洞，核心问题无法通过固件修复.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486915&idx=1&sn=a2fcd625edc0bfec635fa313d4ad1bff": "2025-W26/2025-06-26/200小时狂赚$20,300：我的漏洞赏金黑客挑战实录.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484721&idx=1&sn=029e587fd0cab63986d9cb5bab2c5ee2": "2025-W26/2025-06-26/【技术分享】关于补天SRC小白入门详细介绍(来自2021年的文章).md",
+    "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506258&idx=2&sn=9b73c9237d035592d40a062b9eaddd37": "2025-W26/2025-06-26/应急响应之linux 排查.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486028&idx=3&sn=d961f6c041977816b00f5c5e7415af1a": "2025-W26/2025-06-26/【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908401&idx=1&sn=e5f24f835066c260946809fee62a5325": "2025-W26/2025-06-26/[AI-VA-20250626-001] - Gogs符号链接处理不当导致远程命令执行.md"
 }
