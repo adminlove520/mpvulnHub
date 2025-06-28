@@ -15980,5 +15980,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499964&idx=2&sn=8e5b35e3a202cc2b37520084c98da29f": "2025-W26/2025-06-28/.NET 内网攻防实战电子报刊.md",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096358&idx=2&sn=0bdd6716511352a19ae6a051668361dd": "2025-W26/2025-06-28/思科 ISE 漏洞允许远程攻击者执行恶意命令.md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531429&idx=2&sn=4e0ea50e85df429d670264285c4ebb2b": "2025-W26/2025-06-28/ZigStrike Shellcode 加载器，提供多种注入技术和反沙盒功能.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500237&idx=2&sn=ebe5ef1bbbc091ee2c32540aaae3c393": "2025-W26/2025-06-28/银狐钓鱼页面.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500237&idx=2&sn=ebe5ef1bbbc091ee2c32540aaae3c393": "2025-W26/2025-06-28/银狐钓鱼页面.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486706&idx=1&sn=d9e5d1e4447758f5410a1fed8c43be42": "2025-W26/2025-06-28/【漏洞预警】IBM WebSphere Application Server 远程代码执行漏洞(CVE-2025-36038).md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489718&idx=1&sn=726cfebbf94e1c4c60e8c850fb4e3673": "2025-W26/2025-06-28/CVE-2025-33053 Poc复现研究细节.md"
 }
