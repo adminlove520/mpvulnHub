@@ -15960,5 +15960,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "2025-W26/2025-06-28/Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开.md",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484481&idx=1&sn=12f6a7fef44109a965c102f35130580b": "2025-W26/2025-06-28/【已复现】用Notepad++提权漏洞社工钓鱼控制系统最高权限.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488179&idx=1&sn=a1a850ad1934a17311012098f9076953": "2025-W26/2025-06-28/国家级机构竟被冒充！\"银狐\"双料攻击：钓鱼网站暗藏间谍木马+隐形Rootkit.md",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485168&idx=1&sn=ccdbf7b18e4e2300a6fa0d4f9aafd306": "2025-W26/2025-06-28/亲测AIFuzzing与XiaYue逻辑漏洞检测插件的区别：AI赋能的安全检测工具优势解析.md"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485168&idx=1&sn=ccdbf7b18e4e2300a6fa0d4f9aafd306": "2025-W26/2025-06-28/亲测AIFuzzing与XiaYue逻辑漏洞检测插件的区别：AI赋能的安全检测工具优势解析.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492671&idx=1&sn=039d419b9b14b40347b00d4c9bd5f825": "2025-W26/2025-06-28/朝鲜黑客组织Famous Chollima针对印度加密货币领域发动攻击—每周威胁情报动态第228期 （06.20-06.26）.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487516&idx=1&sn=0022a5911bd065644f71a5821e3a10df": "2025-W26/2025-06-28/WinRAR 缺陷（CVE-2025-6218）：通过目录遍历执行远程代码.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499957&idx=1&sn=87ae1a8de70567795058011dbd6f5cb8": "2025-W26/2025-06-28/分析和挖掘 .NET 系统全局权限访问绕过漏洞.md"
 }
