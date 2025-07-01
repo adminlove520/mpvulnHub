@@ -16091,5 +16091,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493546&idx=3&sn=d08eea3ea0118239a217d343dc31fd19": "2025-W27/2025-07-01/漏洞预警 | 用友NC SQL注入漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490334&idx=1&sn=40afc24425c4f95b1e789f6645fa2295": "2025-W27/2025-07-01/【高危漏洞预警】 Akamai CloudTest soap XXE漏洞（CVE-2025-49493）.md",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503447&idx=1&sn=2a7f45d6621139fb1c9bb7364fe7dce5": "2025-W27/2025-07-01/雷神众测漏洞周报2025.6.23-2025.6.29.md",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=1&sn=8f5d60702d8764a873e0a41789698fef": "2025-W27/2025-07-01/.NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载.md"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=1&sn=8f5d60702d8764a873e0a41789698fef": "2025-W27/2025-07-01/.NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "2025-W27/2025-07-01/如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070451&idx=4&sn=1ae1f2640c97ff21fa27bdfc9eefb3dd": "2025-W27/2025-07-01/【安全圈】危险警告！D-Link 多款路由器曝出严重漏洞，建议立即停用.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjM2NTc0MQ==&mid=2247484432&idx=1&sn=ff12bb9a1afc24ef0ebd40dc8f6dfc6b": "2025-W27/2025-07-01/CVE-2025-32462 Sudo chroot本地提权漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516905&idx=1&sn=900d3adbb01a34ee0615ded711105778": "2025-W27/2025-07-01/网站API挖掘提取与漏洞探测工具 -- Super-API-Finder(6月30日更新).md"
 }
