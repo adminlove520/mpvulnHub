@@ -16100,5 +16100,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490104&idx=1&sn=bfc287009021abce228aa120eb7673cc": "2025-W27/2025-07-01/【0day】泛微OA前台登录绕过+后台组合拳RCE.md",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=1&sn=69b96ddf5e6b92e1c401efa186d2f1f4": "2025-W27/2025-07-01/【必查漏洞】Sudo Host_Alias 权限提升漏洞 (CVE-2025-32462) 检测手册.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486372&idx=1&sn=acde1e9a58f0d96700cec463b162ab2f": "2025-W27/2025-07-01/工具集：z0scan【新发布：Web 与全版本服务漏洞检测的主、被动扫描工具】.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573744&idx=1&sn=2fbda2cb0c158165d05929d821e9927e": "2025-W27/2025-07-01/windows内网渗透-常用命令集合.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573744&idx=1&sn=2fbda2cb0c158165d05929d821e9927e": "2025-W27/2025-07-01/windows内网渗透-常用命令集合.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=1&sn=7bf65d26e4d8ee07d1bb79a849c00f27": "2025-W27/2025-07-01/【已复现】Linux sudo 本地提权漏洞(CVE-2025-32462、CVE-2025-32463).md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501245&idx=2&sn=b69280406515cfaba0f0b36bce7ecbcd": "2025-W27/2025-07-01/【漏洞通告】Citrix NetScaler ADC和Gateway拒绝服务漏洞 (CVE-2025-6543).md"
 }
