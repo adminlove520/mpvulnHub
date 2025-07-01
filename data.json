@@ -16095,5 +16095,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "2025-W27/2025-07-01/如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE.md",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070451&idx=4&sn=1ae1f2640c97ff21fa27bdfc9eefb3dd": "2025-W27/2025-07-01/【安全圈】危险警告！D-Link 多款路由器曝出严重漏洞，建议立即停用.md",
     "https://mp.weixin.qq.com/s?__biz=MzI5MjM2NTc0MQ==&mid=2247484432&idx=1&sn=ff12bb9a1afc24ef0ebd40dc8f6dfc6b": "2025-W27/2025-07-01/CVE-2025-32462 Sudo chroot本地提权漏洞.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516905&idx=1&sn=900d3adbb01a34ee0615ded711105778": "2025-W27/2025-07-01/网站API挖掘提取与漏洞探测工具 -- Super-API-Finder(6月30日更新).md"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516905&idx=1&sn=900d3adbb01a34ee0615ded711105778": "2025-W27/2025-07-01/网站API挖掘提取与漏洞探测工具 -- Super-API-Finder(6月30日更新).md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523733&idx=1&sn=fb0f51ca0a538974be1a4942d2ecea2f": "2025-W27/2025-07-01/【全网首发】助力护网！企业级内网渗透靶场《GreenTiger》正式发布！.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490104&idx=1&sn=bfc287009021abce228aa120eb7673cc": "2025-W27/2025-07-01/【0day】泛微OA前台登录绕过+后台组合拳RCE.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=1&sn=69b96ddf5e6b92e1c401efa186d2f1f4": "2025-W27/2025-07-01/【必查漏洞】Sudo Host_Alias 权限提升漏洞 (CVE-2025-32462) 检测手册.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486372&idx=1&sn=acde1e9a58f0d96700cec463b162ab2f": "2025-W27/2025-07-01/工具集：z0scan【新发布：Web 与全版本服务漏洞检测的主、被动扫描工具】.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573744&idx=1&sn=2fbda2cb0c158165d05929d821e9927e": "2025-W27/2025-07-01/windows内网渗透-常用命令集合.md"
 }
