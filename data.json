@@ -16122,5 +16122,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMjU2Nzc1Mg==&mid=2247484640&idx=1&sn=c857908da5054d90101ba39b5081669d": "2025-W27/2025-07-02/泛微OA前台登录绕过+后台RCE【0day】.md",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500070&idx=1&sn=9cb23c555cc9c7543e717b2bda925227": "2025-W27/2025-07-02/CNVD漏洞周报2025年第24期.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485685&idx=1&sn=3291d434ce662ab723d4ae8346bdd9fb": "2025-W27/2025-07-02/sudo chroot权限提升漏洞(CVE-2025-32463).md",
-    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248171&idx=1&sn=a09d9951b98e92cb8de23c598d7a3402": "2025-W27/2025-07-02/Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开 | 黑客入侵水坝运营系统，私自完全打开阀门数小时.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248171&idx=1&sn=a09d9951b98e92cb8de23c598d7a3402": "2025-W27/2025-07-02/Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开 | 黑客入侵水坝运营系统，私自完全打开阀门数小时.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485804&idx=1&sn=aac724da59eb2431e4883e1384ba7310": "2025-W27/2025-07-02/重生之hw 0day出自我的cnvd.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTQwMDY1NA==&mid=2247485463&idx=1&sn=fcff1fc7cec09f4a4904d2901369bed0": "2025-W27/2025-07-02/Web篇 | 从防御到绕过：剖析长亭雷池WAF防护机制与SQL注入绕过测试.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489170&idx=1&sn=3748f66988afa0fa303cbba4baa2bc5a": "2025-W27/2025-07-02/漏洞通告：Sudo chroot 权限提升漏洞（Elevation of Privilege）.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497768&idx=1&sn=e6f334fb01b193eb918f67dc041f8393": "2025-W27/2025-07-02/JavaScript Web服务器ReDoS漏洞分析.md"
 }
