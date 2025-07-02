@@ -16103,5 +16103,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573744&idx=1&sn=2fbda2cb0c158165d05929d821e9927e": "2025-W27/2025-07-01/windows内网渗透-常用命令集合.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=1&sn=7bf65d26e4d8ee07d1bb79a849c00f27": "2025-W27/2025-07-01/【已复现】Linux sudo 本地提权漏洞(CVE-2025-32462、CVE-2025-32463).md",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501245&idx=2&sn=b69280406515cfaba0f0b36bce7ecbcd": "2025-W27/2025-07-01/【漏洞通告】Citrix NetScaler ADC和Gateway拒绝服务漏洞 (CVE-2025-6543).md",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492897&idx=1&sn=200f78d280c37069d42eb4e905bb1352": "2025-W27/2025-07-01/安卓版CobaltStrike：远程控制的终极利器|漏洞探测.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492897&idx=1&sn=200f78d280c37069d42eb4e905bb1352": "2025-W27/2025-07-01/安卓版CobaltStrike：远程控制的终极利器|漏洞探测.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495109&idx=1&sn=52e327f6a336252852abc5417dadeb9f": "2025-W27/2025-07-02/告别手工测试 | BurpSuite插件快速定位SQL注入漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484493&idx=1&sn=b3f52bcf88286af6436326c213aec8df": "2025-W27/2025-07-02/sql注入绕过雷池WAF测试.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247492576&idx=1&sn=1a076806a9edc715d1371e4e63c91f10": "2025-W27/2025-07-02/BlackMatter勒索病毒构建器样本分析.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491980&idx=1&sn=0425e1ac6aba4303cd7fb98b6307bc55": "2025-W27/2025-07-02/红帆OA MobileOA.asmx SQL注入漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491736&idx=1&sn=c058b634e9bf320f603b91d1de78ff2a": "2025-W27/2025-07-02/Chrome在野CVE-2025-6554漏洞poc公布.md"
 }
