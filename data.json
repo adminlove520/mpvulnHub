@@ -16117,5 +16117,6 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=1&sn=c11acae8f7897f7fa528977c559d8c05": "2025-W27/2025-07-02/Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开.md",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=1&sn=af483917f833027e64a5dc3b05e6f56a": "2025-W27/2025-07-02/谷歌紧急修复已遭利用的 Chrome 0day漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=2&sn=b3c49f08044fa93f0b294e0ed8852e00": "2025-W27/2025-07-02/【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554).md",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=2&sn=7d995c11b35283ee1e76812768d2151c": "2025-W27/2025-07-02/记一次某大厂csrf漏洞通过蠕虫从低危到高危.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=2&sn=7d995c11b35283ee1e76812768d2151c": "2025-W27/2025-07-02/记一次某大厂csrf漏洞通过蠕虫从低危到高危.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485622&idx=1&sn=2fa758da71fdf76780e23d0ac7864ec7": "2025-W27/2025-07-02/护网系列 威胁情报共享7.1.md"
 }
