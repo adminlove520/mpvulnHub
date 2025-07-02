@@ -16120,5 +16120,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=2&sn=7d995c11b35283ee1e76812768d2151c": "2025-W27/2025-07-02/记一次某大厂csrf漏洞通过蠕虫从低危到高危.md",
     "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485622&idx=1&sn=2fa758da71fdf76780e23d0ac7864ec7": "2025-W27/2025-07-02/护网系列 威胁情报共享7.1.md",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjU2Nzc1Mg==&mid=2247484640&idx=1&sn=c857908da5054d90101ba39b5081669d": "2025-W27/2025-07-02/泛微OA前台登录绕过+后台RCE【0day】.md",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500070&idx=1&sn=9cb23c555cc9c7543e717b2bda925227": "2025-W27/2025-07-02/CNVD漏洞周报2025年第24期.md"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500070&idx=1&sn=9cb23c555cc9c7543e717b2bda925227": "2025-W27/2025-07-02/CNVD漏洞周报2025年第24期.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485685&idx=1&sn=3291d434ce662ab723d4ae8346bdd9fb": "2025-W27/2025-07-02/sudo chroot权限提升漏洞(CVE-2025-32463).md",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248171&idx=1&sn=a09d9951b98e92cb8de23c598d7a3402": "2025-W27/2025-07-02/Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开 | 黑客入侵水坝运营系统，私自完全打开阀门数小时.md"
 }
