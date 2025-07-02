@@ -16147,5 +16147,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712371&idx=1&sn=7f8436b06ea91d58fe0d1e3ca12933f2": "2025-W27/2025-07-02/CVE-2025-32462&CVE-2025-32463.md",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490433&idx=1&sn=6ea78f033857836e66b0fa5bb027102e": "2025-W27/2025-07-02/【已复现】Linux sudo存在本地提权漏洞（CVE-2025-32463）.md",
     "https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877221&idx=1&sn=d02a91e885c7dfadf6de05fbab190268": "2025-W27/2025-07-02/“Sannu, Lagos”（你好，拉各斯）！飞天诚信闪耀Digital PayExpo 2025.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=2&sn=35dbec1ac12ce977cb52bd37b9d9860a": "2025-W27/2025-07-02/MongoDB 服务器预认证漏洞可用于触发 DoS 条件.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=2&sn=35dbec1ac12ce977cb52bd37b9d9860a": "2025-W27/2025-07-02/MongoDB 服务器预认证漏洞可用于触发 DoS 条件.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546866&idx=1&sn=efc6e9e0da5cb112c035c0489e1f580c": "2025-W27/2025-07-02/Nessus严重漏洞允许覆盖任意本地系统文件.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTUwNTg2Ng==&mid=2247485534&idx=1&sn=965510532c48f2610001136d57f67e79": "2025-W27/2025-07-02/Windows命令执行场景下落地文件的常见方法.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096366&idx=1&sn=1f824c99f63b3324ed70f4623df29c43": "2025-W27/2025-07-02/Chrome 0 Day 在野外被利用以执行任意代码漏洞.md"
 }
