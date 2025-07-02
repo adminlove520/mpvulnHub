@@ -16110,5 +16110,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491980&idx=1&sn=0425e1ac6aba4303cd7fb98b6307bc55": "2025-W27/2025-07-02/红帆OA MobileOA.asmx SQL注入漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491736&idx=1&sn=c058b634e9bf320f603b91d1de78ff2a": "2025-W27/2025-07-02/Chrome在野CVE-2025-6554漏洞poc公布.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=1&sn=4dea0397669732bd3731580094ffef5a": "2025-W27/2025-07-02/【7.1】-威胁情报汇总.md",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489169&idx=1&sn=12e8f36dd27a550376215017f2cf31bd": "2025-W27/2025-07-02/漏洞通告：Sudo Host 选项本地权限提升漏洞（Elevation of Privilege）.md"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489169&idx=1&sn=12e8f36dd27a550376215017f2cf31bd": "2025-W27/2025-07-02/漏洞通告：Sudo Host 选项本地权限提升漏洞（Elevation of Privilege）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=2&sn=53623527ace09a34e233e4c555c6c6f8": "2025-W27/2025-07-02/【必查漏洞】Sudo chroot 权限提升漏洞(CVE-2025-32463)检测手册.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247517267&idx=1&sn=15af7e76cfcf20622dd19551e3a1bf78": "2025-W27/2025-07-02/6款较流行的开源漏洞扫描工具推荐及特点分析.md"
 }
