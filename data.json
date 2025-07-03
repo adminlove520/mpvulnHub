@@ -16167,5 +16167,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490802&idx=1&sn=102c4f427b3434196bc45fac750ee05e": "2025-W27/2025-07-03/插件前台任意文件读取漏洞复现与分析 (CVE-2025-2294).md",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499995&idx=3&sn=afa5da2f0b688c70a82e89e06a22e9c4": "2025-W27/2025-07-03/.NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521964&idx=1&sn=ff4181434a4560709a8cedc9f09a86e2": "2025-W27/2025-07-03/【7.2】-威胁情报汇总.md",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261384&idx=1&sn=4f91cc15ac8ab344b7d926dd5c872297": "2025-W27/2025-07-03/【星球专享】手把手复现 Apache Airflow 漏洞指南-(CVE-2022–40604).md"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261384&idx=1&sn=4f91cc15ac8ab344b7d926dd5c872297": "2025-W27/2025-07-03/【星球专享】手把手复现 Apache Airflow 漏洞指南-(CVE-2022–40604).md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523425&idx=1&sn=d86d65a64846ff68a79a294116423c60": "2025-W27/2025-07-03/CISA 提醒注意 Microsens 中的多个严重漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248176&idx=1&sn=0ecdc3615a9a83848b91db8b1861589a": "2025-W27/2025-07-03/德国全面封杀DeepSeek，中欧数据冲突升级 | Nessus严重漏洞允许覆盖任意本地系统文件.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492919&idx=1&sn=efd3fdb2c449e02f690a3f69145b8532": "2025-W27/2025-07-03/AI赋能的JS扫描与漏洞挖掘神器|漏洞探测.md"
 }
