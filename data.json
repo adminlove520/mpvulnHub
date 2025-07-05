@@ -16216,5 +16216,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651733657&idx=1&sn=19e1e9619992414367d2cc34dba5c3dc": "2025-W27/2025-07-05/Google Chrome V8类型混淆漏洞来袭，启明星辰提供解决方案.md",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324439&idx=2&sn=a0d16ac6b452dc408664fce07a3204cd": "2025-W27/2025-07-05/高危Lucee漏洞通过计划任务滥用实现认证RCE，Metasploit模块已公开.md",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324157&idx=1&sn=d1cefdecef852c70267c3183969ad839": "2025-W27/2025-07-05/新型macOS恶意软件利用进程注入与远程通信窃取钥匙串凭证.md",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=3&sn=1ef1f6e0a656c9697273135ef8bdf2d5": "2025-W27/2025-07-05/新型僵尸网络利用四信工业路由器漏洞发动DDoS攻击.md"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=3&sn=1ef1f6e0a656c9697273135ef8bdf2d5": "2025-W27/2025-07-05/新型僵尸网络利用四信工业路由器漏洞发动DDoS攻击.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531649&idx=2&sn=e7df67683a084053ceec541815be401e": "2025-W27/2025-07-05/CVE-2025-53367：DjVuLibre 中可利用的越界写入漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDc0MTc5Mw==&mid=2247483878&idx=1&sn=161132aec1e0f816d558679852c2866c": "2025-W27/2025-07-05/Notepad++提权漏洞POC及一键部署环境【CVE-2025-49144】.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507548&idx=1&sn=85978c0c88e548f7680254b6e0af985b": "2025-W27/2025-07-05/【一周安全资讯0705】三部门发文：进一步加强电子病历信息使用管理；谷歌紧急修复已被利用的Chrome高危零日漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1Nzc0MzY3NA==&mid=2247487449&idx=1&sn=58605f2922c9db6af4fc15fc9bc1482d": "2025-W27/2025-07-05/提权辅助工具：Windows--exploit-suggester.py安装及使用.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492021&idx=1&sn=a7e4f43c8a2f6556f98aefe8b21fd3bb": "2025-W27/2025-07-05/锐捷EWEB路由器 check.php 任意文件读取漏洞.md"
 }
