@@ -16267,5 +16267,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485717&idx=1&sn=ec7bbd48450cd13ff66269566b76d293": "2025-W27/2025-07-06/HTB RustyKey靶机：域控渗透实战复盘.md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=2&sn=4a6933ad20a93e82115716b907fedd14": "2025-W27/2025-07-06/利用 DLL PEB 模块结构操作的代码执行∕注入技术.md",
     "https://mp.weixin.qq.com/s?__biz=MzkyOTc0NDY2Nw==&mid=2247485266&idx=1&sn=fa7586fab518f5e8a727016fd4e4c41d": "2025-W27/2025-07-06/冲鸭一周年:聊一下企业办公网终端的EDR安全运营.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=1&sn=aa9233641ab5de3a299f4d20e0b510ea": "2025-W27/2025-07-06/多个 PHP 支持 SQLi 和 DoS 攻击漏洞.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=1&sn=aa9233641ab5de3a299f4d20e0b510ea": "2025-W27/2025-07-06/多个 PHP 支持 SQLi 和 DoS 攻击漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070525&idx=1&sn=7b6337e89711c9e9f413dd1cb303bd76": "2025-W27/2025-07-06/【安全圈】Linux“sudo”严重漏洞：任何用户均可接管系统.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487049&idx=1&sn=0431eff40c4f13bca4cec21369e2ac93": "2025-W27/2025-07-06/记住，不要在 XSS 中使用 alert(1).md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247489666&idx=1&sn=001e09686a0787bdd7f588a9614702b6": "2025-W27/2025-07-06/XSS之文件类型触发型XSS.md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497815&idx=1&sn=2e590228585b24abbfe047e87ea21252": "2025-W27/2025-07-06/赏金15000美元的 RCE.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=2&sn=0db1104436ef7e1f9d8ce2148c89f9f2": "2025-W27/2025-07-06/Next.js 允许攻击者通过缓存中毒触发 DoS漏洞.md"
 }
