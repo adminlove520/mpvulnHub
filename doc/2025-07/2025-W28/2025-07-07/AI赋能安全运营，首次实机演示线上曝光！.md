@@ -1,9 +1,10 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389437&idx=1&sn=5855da7c183c42ac41d0e8cf67e417e7
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247487963&idx=1&sn=0601faf1ed55145a4353fbe19de8bcee
 
 #  AI赋能安全运营，首次实机演示线上曝光！  
- 长亭科技   2025-07-07 10:36  
+ 长亭安全观察   2025-07-07 10:38  
   
-![](https://mmecoa.qpic.cn/sz_mmecoa_png/Fuleibl6qMuqOUuicfAbTq2hCkJ0VV3ZtGWibJic6XBQZxVXD5UqDREzfLEEVCKu1T5RbfBGBACy0BJF7icxzRgx5VQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/NCzpaOPov3P6Cr9zLG4jW69qLoMcUlf3OktksnU9Vv0dB7nZvnSKyPnqffZZlUppralRGFeVSeqQoo51d0Gp5w/640?wx_fmt=png&from=appmsg "")  
+  
   
 近年来国内AI大模型产业发展迅猛  
   
@@ -33,12 +34,12 @@
   
 特别就AI安全运营  
   
-进行了讲解和实机演示  
+进行了讲解和相关实机演示  
   
   
 ......  
   
-![影视logo-4.png](https://mmbiz.qpic.cn/mmbiz_png/NCzpaOPov3P6Cr9zLG4jW69qLoMcUlf31KL2rro0J3gPicr3ic3rIiao4EDicicM7WhkNrMWlTWQwbl9gD4NcSvyjmA/640?from=appmsg "")  
+![影视logo-4.png](https://mmbiz.qpic.cn/mmbiz_png/NCzpaOPov3P18dicRHFx1Uzico1I5OHEoCRNW0mDSxicX3kve5WC3lECaDSuicHWJfb8SbGokDTAlM1vCvjUEc0wUQ/640?from=appmsg "")  
   
   
   
