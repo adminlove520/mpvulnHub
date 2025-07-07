@@ -16322,5 +16322,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzIyNDg2MDQ4Ng==&mid=2247487317&idx=1&sn=983145fd591c53cd2b98452b56aa02b5": "2025-W28/2025-07-07/07-7-攻防演练之请防守方重点关注威胁情报样本信息.md",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=3&sn=6d8a6aafd07ad3be4a5c0f54d00e56f5": "2025-W28/2025-07-07/Web服务器面临认证前RCE与管理员接管风险，PoC已公开.md",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=2&sn=670e1a9a5783709fe9c44ad380ee9354": "2025-W28/2025-07-07/通过带有 chroot 选项的 sudo 二进制文件将权限提升至 root CVE-2025-32463.md",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070540&idx=4&sn=6fe8ab50588c2035d0ee523bcf26b3ea": "2025-W28/2025-07-07/【安全圈】Cisco 紧急修复 Unified CM 中存在的严重 Root 账户漏洞.md"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070540&idx=4&sn=6fe8ab50588c2035d0ee523bcf26b3ea": "2025-W28/2025-07-07/【安全圈】Cisco 紧急修复 Unified CM 中存在的严重 Root 账户漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546998&idx=1&sn=c3077c2a50dfec80de8f9e21b507ae53": "2025-W28/2025-07-07/25HVV最新0day更新，各单位自查....md",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485644&idx=1&sn=b414eb6d4de6fe9f0de382b2451431f9": "2025-W28/2025-07-07/护网系列 威胁情报共享7.7.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493216&idx=1&sn=cf4bb7dfb28d39e2e378a50a5bc917ed": "2025-W28/2025-07-07/告别零散工具！一款BurpSuite全能漏洞探测插件v1.4.6更新|插件分享.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485596&idx=1&sn=7bc13ba63d58c7e30f858f1d985f6a56": "2025-W28/2025-07-07/必看---当前国护0day漏洞权威汇总.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=1&sn=cf6ac5c638e79ee6ab729793fb9d3380": "2025-W28/2025-07-07/CentOS Web 面板中的远程代码执行 - CVE-2025-48703.md",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596945&idx=3&sn=ce5a42d0da3011db31e51a6b4c67cb24": "2025-W28/2025-07-07/Redis曝高危漏洞，认证客户端可致服务中断.md"
 }
