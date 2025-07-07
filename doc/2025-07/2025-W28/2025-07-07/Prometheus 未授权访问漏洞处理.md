@@ -1,18 +1,22 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492233&idx=1&sn=6972c3d85da8e41bb31f6f59be71350b
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484703&idx=1&sn=cef647655b1d164daa9a84854dc90034
 
 #  Prometheus 未授权访问漏洞处理  
-Hai  知微守望   2025-07-07 08:21  
+ 内存泄漏   2025-07-07 16:01  
   
 # 背景  
   
 经常收到甲方的各种安全漏洞通知单，这次就是几年前部署的prometheus未授权访问漏洞。  
 # 漏洞现象  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibibESgfODJWoMsjqWCQ6sJoKA2Lmib8tOmnHq4bUV0ibogSM8gzmDeqZZg/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibEP6USq834f5ErPjbcTrv9BUCTicQZMv9lO9X8JmdUSH8BqEXE6rpEpA/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
 # 分析  
   
 prometheus收集所有exporter的指标数据，汇总后通常由grafana去调用它，界面来展示，类似与kibana。当然也有可能是其他组件来调用，本项目主要只有grafana去调用它，且grafana也部署在本机，其实处理的办法也很简单，防火墙启动起来，只允许本机调用，对外接口不暴露，就能解决问题。但这不是解决问题的初衷。既然是未授权访问，那就加上身份的认证来解决问题。关键参数：Basic Auth。  
+  
 通过Basic Auth功能进行加密，在浏览器登录UI的时候需要输入用户密码，访问Prometheus api的时候也需要加上用户密码。  
+  
 生产的prometheus版本2.17.1，版本太古老，Prometheus于2.24版本（包括2.24）之后提供Basic Auth功能进行加密访问，因此还需要做个升级。（跨大版本的升级，不考虑历史数据的兼容问题，不保留历史数据）  
 # 升级  
 
@@ -55,20 +59,27 @@ systemctl start prometheus
 ```
 
   
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibBotnm7wPsZVCQ3AdQ8BmHr8oKxAAu5HhJ9hyibfP3ftlDUnzWVwsVEA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjib2Stib1KtmHZm9XXXVAglPG5rWqgORNvcpUsJuYQWvZSYibNvU4ZkDO6A/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
   
 查看targets，收集的指标数据也都上来了（图略）  
 # 查阅官方文档  
   
 参考：https://prometheus.io/docs/prometheus/latest/configuration/https/  
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibneKHLBOMbqBk7iawc6dWYZfvGlibG02DeviaCmF527xGaUexrs8G1XjpQ/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibOvJrzopIk9BByNcQDXjgYj3P0zRRDZWp57yt7If5iblKTbWRNMfeu8Q/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
 **意思是说，prometheus是支持这种基础的身份验证的方式和TLS,但这个将来将会改变。需要将配置写到yaml格式的文件里面，再通过--web.config.file来调用文件。**  
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibGTbEHp6CiaUSxZvTLsIwJCrNYZlt3kibQsCHUtbcFLQGq54FK4ADaKHw/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibkbFAOG7HcdAxTp2hfVEcnodZvibOf8bWmPRJicubyralX7e2iaIZevsFA/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
   
 参考：https://prometheus.io/docs/prometheus/latest/command-line/prometheus/  
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibLDj6O5H93K46Voa0icoxrjhjEQdCkQCd2IKLxysZ79M8Lv6IZpoicDAA/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibicjyLlX9EdKg3jzXW9ORfvastoPGZze2RcSWUHpAels1shBWjngia8kA/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 # 配置身份认证  
+  
 ## 生成bcrypt哈希值  
 
 ```
@@ -79,7 +90,9 @@ htpasswd -nBC 12 ‘’ | tr -d ‘:\n’
 ```
 
   
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibnxqkPQe7O00ypIwib0VleB6wmZiaOibBE6GX1LSMa9U8OIYqic1JfDU0DQ/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibWCZKgnklD5rfDShXtiaVpaAVwAtd2AUP8hAxoE6eL9rDCrIYNRH72Pg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
 ## 配置密码配置文件  
 
 ```
@@ -91,7 +104,9 @@ admin:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
   
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibiaQoKia7YbBsoOb8BaglLfuBSsp4niaCheInIvqHicoa6j8EJP4B3rw8wA/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibiaQoKia7YbBsoOb8BaglLfuBSsp4niaCheInIvqHicoa6j8EJP4B3rw8wA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
 ## 验证文件语法是否正确  
 
 ```
@@ -100,7 +115,9 @@ admin:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
   
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibKINVcx3VibhuAN5MohuibROKzVNE4AXayFqJTibTA4mzP1ViazEMt3sJFg/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibKINVcx3VibhuAN5MohuibROKzVNE4AXayFqJTibTA4mzP1ViazEMt3sJFg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
 ## 修改systemctl配置文件  
 
 ```
@@ -126,6 +143,7 @@ WantedBy=multi-user.target
 
 ```
 
+  
 
 ```
 systemctl daemon-reload
@@ -136,21 +154,29 @@ systemctl restart prometheus
 # 重启服务  
   
 服务启动正常  
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibGyXfdYaP07x4Gib9GcFaV3ORkV0qZhchTUhVOXQsOAfDGspU73iadfDA/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibDsibiamUYV03yrpzoQrQhiacUKAVQ4ic9W0DommewoLYvibDNQWBRy7lqDw/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 # 验证  
   
 http://127.0.0.1:9090/metrics  
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibnpribo9xhrToLkBf3qSTA3Qo7iaHL7JoG19PEYRFr8kGqBdcW56rWu4g/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibXoR9ickGToVkiaUva9RicZBBOPPz3nHibNQSwFbiaFNLDBu7M3fzVCUUMeg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
   
 http://127.0.0.1:9090  
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibHWTVB2KswtVqDG2YsLNZ3vkQuUqa8oWzS8A8NJr2YGHGQ29k5IicdeA/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjib4bqhLovTtpEQvvo76wkHxy5zhV680ZMwkyZsobIxATfMEcgms1XxtQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
   
 不输入密码提示  
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibvetgmtsebjjmTLJvDTSr0XdQSEUf1ElPMNlCmaOkKTQrBjwnAjm13g/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibMxHJFPEl5UpbIbWiagp0arUALT29LiazjjpXJKGicFp3nvXBmBkmsowtQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
   
 输入密码后：  
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibGSepc1pkibKUFOBUnfOtB7Nicm2e5BBRh9peOOaicb3AnstaMXQHh5CLw/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjiboNh3vr9HicjlMMoUoSuTdDck10J3r2akVK87UmyQ9016x98BsPyr64w/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 # 适配grafana  
 ## 配置grafana-yum源  
@@ -166,16 +192,22 @@ systemctl restart grafana-server
 ```
 
   
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibtNEmBUOT7ic1UVIrou0DAtWx5ZPmbKjdCqzSeIq0oGYpaHbLiaqWARlg/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibVXBsCoxfZ66c09aGOzFptLMg4vr6u63LzZMwek9r8tHHCh5njvSObA/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
 ## 登录grafana页面配置数据源  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjib2wZarTbfbFZ99ApvGLa5iaV5uia15soHf1FgBA9g4tRK3tG93tGLHaxQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibpUSp1OtaMCSTEOreiaWUnBb0xibERhsaic19OaZXbGz7ibDIicogLlaswsw/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
   
 点测试  
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibkibeEGwFyfz7hcesQBaq8oia4Fxcekt6ZsuhichydHnXibAIxnjN7GBj3Q/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjib56GEf9tXc0UAgsxdYKUgqwBhf0KP7pH3ct4xRZ6pb0GX7BIwSXcQ3A/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
   
 查看面板  
-![](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibRbflYNTHyZOvjqXjz8l1ib3EWicsWBCt9wsDpetcpO8ulkibDupHna9tQ/640?wx_fmt=png&from=appmsg "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/n2rSqJSRAVztXTktD2vHmIg4nLkLMKjibnbhicc7MHTEZZfxRTwPGA5hicGF58oszGUialp7y2Hsa7aKcOGXAuyecQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 数据展示没问题，部分数据库无法正常显示，可能是是node_exporter也需要升级，可能是采集数据的字段有变化，或者grafana的json也需要改，这是后话了，有时间再折腾。  
@@ -190,6 +222,4 @@ systemctl restart grafana-server
   
 ****  
 **敲敲小黑板：《刑法》第二百八十五条　【非法侵入计算机信息系统罪；非法获取计算机信息系统数据、非法控制计算机信息系统罪】违反国家规定，侵入国家事务、国防建设、尖端科学技术领域的计算机信息系统的，处三年以下有期徒刑或者拘役。违反国家规定，侵入前款规定以外的计算机信息系统或者采用其他技术手段，获取该计算机信息系统中存储、处理或者传输的数据，或者对该计算机信息系统实施非法控制，情节严重的，处三年以下有期徒刑或者拘役，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。**  
-  
-  
   
