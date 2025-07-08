@@ -16376,5 +16376,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503563&idx=1&sn=09169a0ba263b129a115d0fa708b0d02": "2025-W28/2025-07-08/【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)安全风险通告.md",
     "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485648&idx=1&sn=f99b74e8bbb7c0ce7a89ede7b575081e": "2025-W28/2025-07-08/护网系列 威胁情报共享7.8.md",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573910&idx=2&sn=ca0beb1967b43d9d39bca8eeb7715732": "2025-W28/2025-07-08/一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501391&idx=1&sn=d7d59fa8789b9b499680ba16642dbbb0": "2025-W28/2025-07-08/漏洞速递｜Redis CVE-2025-32023 RCE漏洞.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501391&idx=1&sn=d7d59fa8789b9b499680ba16642dbbb0": "2025-W28/2025-07-08/漏洞速递｜Redis CVE-2025-32023 RCE漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486239&idx=1&sn=8e885ab19cba7e27c6d24a33dcb6de17": "2025-W28/2025-07-08/某堡垒机 set_port 远程命令执行漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490456&idx=1&sn=d62d1062414385b7f829b9ad9c765da1": "2025-W28/2025-07-08/【7∕8特辑】一线最新漏洞情报来袭.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488244&idx=1&sn=01a64335c638438a54a0ead3790c9789": "2025-W28/2025-07-08/HW（2025-7-8）护网漏洞信息收集汇总.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY2MjU2Mg==&mid=2247483857&idx=1&sn=93db8bf128d335497ee7d8c989f635a3": "2025-W28/2025-07-08/平平无奇的越权漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641440&idx=1&sn=cd0ded48c2d71cd4e57deae91254b1c9": "2025-W28/2025-07-08/「限时免单」安全漏洞防治工作标准化的必要性：抵御不断演变的威胁之盾.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245296&idx=1&sn=9a5b71c761dc2b049f6fa30dde2ff1cc": "2025-W28/2025-07-08/专题·人工智能安全 | 大型推理模型的安全性：挑战、漏洞与未来.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712402&idx=1&sn=c474ae778a24fb49e2dfe5be1573a1ac": "2025-W28/2025-07-08/Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)复现研究.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484942&idx=1&sn=baf5d858e68af91f045b6c4cc52c65b5": "2025-W28/2025-07-08/Linux单服务器漏洞处置SOP框架——最小化应用系统运行环境安全风险.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484421&idx=1&sn=5c3724f0c2d78efe44c29769c0a54860": "2025-W28/2025-07-08/【漏洞复现】南昊网上阅卷系统∕exam∕monitor∕index.jsp接口未授权访问.md"
 }
