@@ -16391,5 +16391,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490456&idx=2&sn=0f0fc3ed9e30015967af0b71ee9eb511": "2025-W28/2025-07-08/【已复现】Redis hyperloglog存在远程代码执行漏洞（CVE-2025-32023）.md",
     "https://mp.weixin.qq.com/s?__biz=MzIyNDg2MDQ4Ng==&mid=2247487332&idx=1&sn=125931fca4bb4c0f57af926be7e151af": "2025-W28/2025-07-08/07-8-攻防演练之请防守方重点关注威胁情报样本信息.md",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070555&idx=4&sn=a0045b414dc83b5ccab5d88ec4c10558": "2025-W28/2025-07-08/【安全圈】《使命召唤：二战》曝严重漏洞，PC玩家遭远程黑客攻击，游戏被紧急下线.md",
-    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492498&idx=1&sn=3ea95ef3ff9e6b9f97bfcd9b2a1a756b": "2025-W28/2025-07-08/用友NC最新SQL注入 | CNVD-2025-06710漏洞分析.md"
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492498&idx=1&sn=3ea95ef3ff9e6b9f97bfcd9b2a1a756b": "2025-W28/2025-07-08/用友NC最新SQL注入 | CNVD-2025-06710漏洞分析.md",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526738&idx=1&sn=198681d077860153b253b1e29ce8bede": "2025-W28/2025-07-08/Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023).md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521977&idx=1&sn=d7dbc87638fa89ec7d3f94003d1d649b": "2025-W28/2025-07-08/【7.8】-威胁情报汇总.md"
 }
