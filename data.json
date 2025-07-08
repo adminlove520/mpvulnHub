@@ -16385,5 +16385,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245296&idx=1&sn=9a5b71c761dc2b049f6fa30dde2ff1cc": "2025-W28/2025-07-08/专题·人工智能安全 | 大型推理模型的安全性：挑战、漏洞与未来.md",
     "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712402&idx=1&sn=c474ae778a24fb49e2dfe5be1573a1ac": "2025-W28/2025-07-08/Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)复现研究.md",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484942&idx=1&sn=baf5d858e68af91f045b6c4cc52c65b5": "2025-W28/2025-07-08/Linux单服务器漏洞处置SOP框架——最小化应用系统运行环境安全风险.md",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484421&idx=1&sn=5c3724f0c2d78efe44c29769c0a54860": "2025-W28/2025-07-08/【漏洞复现】南昊网上阅卷系统∕exam∕monitor∕index.jsp接口未授权访问.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484421&idx=1&sn=5c3724f0c2d78efe44c29769c0a54860": "2025-W28/2025-07-08/【漏洞复现】南昊网上阅卷系统∕exam∕monitor∕index.jsp接口未授权访问.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494163&idx=1&sn=ef3a94f06cd0f1e50ff400b0fd0c78ba": "2025-W28/2025-07-08/【已复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023).md",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497828&idx=1&sn=3edecf58ac99722cc6db88b124495ed3": "2025-W28/2025-07-08/SRC漏洞挖掘之“嫂子开门，我是我哥”.md",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490456&idx=2&sn=0f0fc3ed9e30015967af0b71ee9eb511": "2025-W28/2025-07-08/【已复现】Redis hyperloglog存在远程代码执行漏洞（CVE-2025-32023）.md"
 }
