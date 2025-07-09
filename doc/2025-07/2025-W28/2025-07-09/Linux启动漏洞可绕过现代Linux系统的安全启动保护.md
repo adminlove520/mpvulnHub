@@ -1,13 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324586&idx=1&sn=edaf868c5c5e19239d5ddd9a4a9e7b99
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636509&idx=3&sn=8804730cbc02555af8a8f3980e753719
 
 #  Linux启动漏洞可绕过现代Linux系统的安全启动保护  
- FreeBuf   2025-07-08 11:03  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3icIpibI5JhZ4XkIZu1PaHMxHzycL6ffHKRDSPGDrtKZCgGXA8XyOJCFrvGalvZDON7ggymT13s4jXQ/640?wx_fmt=png&from=appmsg "")  
-  
+FreeBuf  商密君   2025-07-08 13:30  
   
 现代Linux发行版存在一个重大漏洞，攻击者通过短暂物理接触即可利用initramfs（初始内存文件系统）操控绕过安全启动（Secure Boot）保护机制。  
   
@@ -47,7 +41,7 @@
 Moch研究中展示的关键脚本如下：  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icIpibI5JhZ4XkIZu1PaHMxHq71LJS8yml0DJ78Xr5IM0iaE1yQ8vLaaaC0V59H9JsAmr1s5yaWperg/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icIpibI5JhZ4XkIZu1PaHMxHq71LJS8yml0DJ78Xr5IM0iaE1yQ8vLaaaC0V59H9JsAmr1s5yaWperg/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 该恶意钩子会在根分区解密后执行，将文件系统重新挂载为可写状态并建立持久性访问。由于攻击遵循常规启动流程且未修改已签名的内核组件，因此能规避传统防护机制。  
@@ -92,28 +86,45 @@ Moch研究中展示的关键脚本如下：
   
 - 可信平台模块（TPM）：将initramfs完整性度量值存入平台配置寄存器（PCR）  
   
-**参考来源：**  
-  
-Linux Boot Vulnerability Allows Bypass of Secure Boot Protections on Modern Linux Systems  
-  
-https://cybersecuritynews.com/linux-boot-vulnerability-allows-bypass-of-secure-boot-protections/  
-  
-  
-###   
-###   
-###   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=1&sn=bdeb8779451111167a89a91cea7654df&scene=21#wechat_redirect)  
-  
-### 电台讨论  
-  
-****  
   
   
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+编辑：陈十九  
   
-   
+审核：商密君  
+  
+**征文启事**  
+  
+大家好，为了更好地促进同业间学术交流，商密君现开启征文活动，只要你对商用密码、网络安全、数据加密等有自己的独到见解和想法，都可以积极向商密君投稿，商密君一定将您的声音传递给更多的人。  
+  
+  
+[](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633989&idx=1&sn=cd6647451cec618b20dd28533702603b&scene=21#wechat_redirect)  
+  
+  
+点击购买《2023-2024中国商用密码产业发展报告》  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXNcXmbiaiaCljdXpwzOEQ9QTBXMibM6rZTOnbTSwTmCXncQLria2vuLGxn8QPtznzBc0as8vBxWIjrWxQ/640?wx_fmt=jpeg "")  
+  
+来源：  
+FreeBuf  
+  
+注：内容均来源于互联网，版权归作者所有，如有侵权，请联系告知，我们将尽快处理。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXOdeQx0thlyozF2swQTEN9iaaBNDG0jTKfAgqgdesve8x5IEWNvYxjF6sAWjO1TPCZVsWd0oiaDn3uw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMyyClGk1cttkSBbJicAn5drpXEbFIeChG9IkrslYEylRF4Z6KNaxNafDwr5ibcYaZXdnveQCNIr5kw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaMcJkA69QYZ9T4jmc3fdN6EA7Qq9A8E3RWcTKhxVEU1QjqOgrJMu2Qg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+点分享  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaiaRXdw4BFsc7MxzkVZaKGgtjWA5GKtUfm3hlgzsBtjJ0mnh9QibeFOGQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+点点赞  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaeiaNlRO9954g4VS87icD7KQdxzokTGDIjmCJA563IwfStoFzPUaliauXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+点在看  
   
