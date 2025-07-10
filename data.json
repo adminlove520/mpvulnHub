@@ -16442,5 +16442,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=1&sn=6d82b7ddc4c8cc451bc8ab54f4420e78": "2025-W28/2025-07-10/【安全圈】Zoom Windows 客户端曝出中危漏洞，可能被用于发起拒绝服务（DoS）攻击.md",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=3&sn=fef11090d9dfd6c566185dcf5f5af6c0": "2025-W28/2025-07-10/一个集成的BurpSuite漏洞扫描插件.md",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=2&sn=e19607b9a1bbf6bc70c902e40f0de1d3": "2025-W28/2025-07-10/Fortinet 修复FortiWeb 中的严重SQL注入漏洞.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484550&idx=1&sn=916706ae74c77a46e7133677977c6cf3": "2025-W28/2025-07-10/影响近两年所有 Linux 的提权漏洞？CVE-2025-32463 POC & 快速复现环境公布.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484550&idx=1&sn=916706ae74c77a46e7133677977c6cf3": "2025-W28/2025-07-10/影响近两年所有 Linux 的提权漏洞？CVE-2025-32463 POC & 快速复现环境公布.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795670&idx=1&sn=d1d46021394a749b9db07a6b38594be5": "2025-W28/2025-07-10/印度APT组织利用 LoptikMod 恶意软件攻击欧洲外交机构.md",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788773&idx=1&sn=55305289f7f57f30bee8bcac340fbe90": "2025-W28/2025-07-10/某电动汽车充电控制器曝严重漏洞，可被远程控制.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485650&idx=1&sn=c1baf85c297c5826c3fc69246cf96109": "2025-W28/2025-07-10/护网系列 威胁情报共享7.9.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492891&idx=1&sn=53e633cb9ea05a797b761d7ff2e09629": "2025-W28/2025-07-10/【攻防演练】SQL注入——猎奇案例篇.md",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "2025-W28/2025-07-10/【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743).md"
 }
