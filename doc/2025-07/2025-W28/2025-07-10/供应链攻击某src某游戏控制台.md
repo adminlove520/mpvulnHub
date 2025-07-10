@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492575&idx=1&sn=3350604bdb364fcf8139901351fb5167
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNjQzMA==&mid=2247485883&idx=1&sn=bdecfd78df40c0a4d2de65840e06f57b
 
 #  供应链攻击某src某游戏控制台  
- 实战安全研究   2025-07-10 03:55  
+ XK Team   2025-07-10 08:04  
   
 1.前言  
   
