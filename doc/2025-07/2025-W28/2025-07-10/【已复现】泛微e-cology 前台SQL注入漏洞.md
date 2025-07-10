@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492872&idx=1&sn=90db05effb93a6cd8efb63c5fa4dfa0d
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzkxNjIxNDQyMQ==&mid=2247498199&idx=1&sn=f4175317ea154b19d2967a61ba9f6778
 
 #  【已复现】泛微e-cology 前台SQL注入漏洞  
- 长亭安全应急响应中心   2025-07-09 10:09  
+长亭科技  天驿安全   2025-07-10 08:03  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/FOh11C4BDicSXB81WckHL3UaDia8f7YSQADP0N5LceRr3X7gVmZX2MLQcN6Q1exGyhiaIlwMJscH8YQEPBXBuWwuw/640?wx_fmt=png&from=appmsg "")  
   
@@ -15,9 +15,7 @@
   
 **漏洞描述**  
   
-   
 Description  
-   
   
   
   
@@ -65,9 +63,7 @@ POC/EXP 未公开
   
 **影响版本**  
   
-   
 Affects  
-   
   
   
   
@@ -82,9 +78,7 @@ e-cology 9 补丁版本 < v10.76
   
 **解决方案**  
   
-   
 Solution  
-   
   
   
   
@@ -94,15 +88,13 @@ Solution
   
 ## 临时缓解方案限制访问来源地址，如非必要，不要将系统开放在互联网上  
   
-## 升级修复方案官方已发布安全补丁，建议受影响的用户联系厂商升级至 v10.76补丁漏洞复现Reproduction 04产品支持Support05云图：默认支持该产品的指纹识别，同时支持该漏洞的PoC原理检测洞鉴：预计2025年7月9日以自定义POC形式支持检测雷池：默认支持检测全悉：预计2025年7月9日发布更新包支持检测  
+## 升级修复方案官方已发布安全补丁，建议受影响的用户联系厂商升级至 v10.76补丁漏洞复现Reproduction04产品支持Support05云图：默认支持该产品的指纹识别，同时支持该漏洞的PoC原理检测洞鉴：预计2025年7月9日以自定义POC形式支持检测雷池：默认支持检测全悉：预计2025年7月9日发布更新包支持检测  
   
   
   
 **时间线**  
   
-   
 Timeline  
-   
   
   
   
@@ -111,25 +103,4 @@ Timeline
 2025年7月 泛微官方发布安全补丁  
   
 2025年7月9日 长亭安全应急响应中心发布通告  
-  
-  
-**长亭应急响应服务**  
-  
-  
-  
-  
-全力进行产品升级  
-  
-及时将风险提示预案发送给客户  
-  
-检测业务是否受到此次漏洞影响  
-  
-请联系长亭应急服务团队  
-  
-7*24小时，守护您的安全  
-  
-  
-第一时间找到我们：  
-  
-邮箱：support@chaitin.com  
   
