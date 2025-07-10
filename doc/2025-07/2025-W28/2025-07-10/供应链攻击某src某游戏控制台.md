@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486577&idx=1&sn=0727a7ec8853aed78d8e82828e8266d3
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492575&idx=1&sn=3350604bdb364fcf8139901351fb5167
 
 #  供应链攻击某src某游戏控制台  
- 进击安全   2025-07-10 02:58  
+ 实战安全研究   2025-07-10 03:55  
   
 1.前言  
   
@@ -184,14 +184,5 @@ X-Forwarded-For: 1xx.xxx.xxx.xx4 
 6.结语  
   
 这次攻击流程全程其实没用什么特殊的姿势，关键点就在于在测试过程中留意各种信息，并且在关键的时刻利用/复用这些信息。我其实是当成解谜游戏来玩的，两者确实有极多相似之处，寻找白名单IP就是这个游戏的主线任务，在完成这个主线的过程中，还要注意各种看似无关的信息的搜集，比如接口的结构和命名规则、硬编码的token等各种信息。等剧情推进到关键节点的时候，你所搜集的所有信息拼凑在一起就能完成任务。  
-  
-  
-  
-代码审计第四期，富含PHP、JAVA、NET代码审计，顺带APP、小程序、WEB当中参数逆向以及JAVA工具二开与SRC案例讲解，其中多多0day讲解，实战案例分析，不拿着靶场去做，想学习速速报名了。  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/ZRKuxIKRyhUicibrBmrZ2iazoDJic2RyDklw4547e6aNia1OEMntI6wGqRdvr87XVgUdiaiczwW67bRO3iayvd7H7bZoeQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRKuxIKRyhXhuxbCGecu4ibia3kSXD8ePQHrSvPSNtC7PmjzQwR88Hu0LpuXdQzamKBCPAXX82anLS8f0FF3LzzQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
   
   
