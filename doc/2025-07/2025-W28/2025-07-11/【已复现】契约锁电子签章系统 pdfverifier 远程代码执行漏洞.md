@@ -1,9 +1,11 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492877&idx=1&sn=f6c804a45992dbfc7e82c40884909de9
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489860&idx=1&sn=a10a66519fd9c578f8c2792f582bdf19
 
 #  【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞  
- 长亭安全应急响应中心   2025-07-11 03:32  
+长亭应急响应  黑伞安全   2025-07-11 07:58  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FOh11C4BDicQOb3OCkynwqpfctBCGH3WxsLsXpcXiciazfZxjQktShM0NnZqrVpictrLNMxKWlEGOmJBe7jCsC47rA/640?wx_fmt=png&from=appmsg "")  
+#   
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/FOh11C4BDicQOb3OCkynwqpfctBCGH3WxsLsXpcXiciazfZxjQktShM0NnZqrVpictrLNMxKWlEGOmJBe7jCsC47rA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
 契约锁，是一个电子签章及印章管控平台，提供的电子文件具有与纸质文件一样的法律效力。  
@@ -74,9 +76,7 @@ Affects
 
 ```
 
-
-4.3.8 <= 契约锁 <= 5.x.x && 补丁版本 < 2.1.8
-4.0.x <= 契约锁 <= 4.3.7 && 补丁版本 < 1.3.8
+4.3.8 <= 契约锁 <= 5.x.x && 补丁版本 < 2.1.84.0.x <= 契约锁 <= 4.3.7 && 补丁版本 < 1.3.8
 
 ```
 
@@ -116,7 +116,7 @@ Reproduction
 **04**  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FOh11C4BDicQOb3OCkynwqpfctBCGH3WxMdAkagltyXI64ZaOzcGoTpSgnXP5xOjFTzFDntjUZ50WuHEZXJAvRA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/FOh11C4BDicQOb3OCkynwqpfctBCGH3WxMdAkagltyXI64ZaOzcGoTpSgnXP5xOjFTzFDntjUZ50WuHEZXJAvRA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
   
@@ -176,4 +176,16 @@ Timeline
 第一时间找到我们：  
   
 邮箱：support@chaitin.com  
+  
+  
+#   
+  
+  
+  
+  
+  
+  
+****  
+****  
+  
   
