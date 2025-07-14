@@ -1,7 +1,7 @@
-> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507954&idx=1&sn=6b10c6716afd896afaf8fd2199207606
+> **原文链接**: https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247507956&idx=1&sn=77ecc0ad56178100e7072c1cda6333e6
 
 #  2025御网杯【高职组】线下CTF+应急响应WriteUp  
-原创 青少年CTF  中学生CTF   2025-07-14 10:03  
+原创 青少年CTF  中学生CTF   2025-07-14 16:00  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/98w89icYGQfc96SwZKF6hEasKqibSh0NvVAJX5u4U8MvicKA0LLbCSFNKAibpXql5IHkbPFZoS4UldrGV5GibvnUsPw/640?wx_fmt=jpeg&from=appmsg "")  
   
@@ -52,13 +52,13 @@ from pyzbar.pyzbar import decode
 def scan_qr_code(image_path):
     # 读取图片
     img = cv2.imread(image_path)
-    if img is None:
+    if img isNone:
         print(f&#34;无法加载图片: {image_path}&#34;)
         return
 
     # 解码二维码
     decoded_objects = decode(img)
-    if not decoded_objects:
+    ifnot decoded_objects:
         print(&#34;未检测到二维码。&#34;)
         return
 
@@ -107,7 +107,7 @@ def char_frequency(text):
     print(&#34;-&#34; * 20)
     for char, count in counter.most_common():
         percent = (count / total) * 100
-        display_char = char if char != &#34;\n&#34; else &#34;\\n&#34;
+        display_char = char if char != &#34;\n&#34;else&#34;\\n&#34;
         print(f&#34;{display_char}\t{count}\t{percent:.2f}&#34;)
 
 if __name__ == &#34;__main__&#34;:
@@ -253,7 +253,7 @@ def decrypt(s):
     shift_idx = 0
 
     for c in s:
-        if c in &#34;{}0123456789&#34;:
+        if c in&#34;{}0123456789&#34;:
             result.append(c)
             continue
 
@@ -269,7 +269,7 @@ def decrypt(s):
         result.append(new_c)
         shift_idx += 1
 
-    return ''.join(result)
+    return''.join(result)
 
 
 cipher = &#34;ipfj{LSFXKSSiqdwsi3MQG}&#34;
