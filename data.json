@@ -16715,5 +16715,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506665&idx=1&sn=d776fe3468df87da311794720e5bea05": "2025-W29/2025-07-14/每周网安资讯 （7.8-7.14）|Ibm Concert_software存在将系统数据暴露到未授权控制的范围漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493266&idx=1&sn=411c7e0604d139facf2cd75ca77cd465": "2025-W29/2025-07-14/图形化POC+资产扫描+漏洞验证Yscan让 Web 安全扫描更简单高效|工具分享.md",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "2025-W29/2025-07-14/用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC.md",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489466&idx=1&sn=646d70b5560716e42a7b10a2c982817a": "2025-W29/2025-07-14/SQL 注入到 RCE - Fortinet FortiWeb FabricConnector (CVE-2025-25257).md"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489466&idx=1&sn=646d70b5560716e42a7b10a2c982817a": "2025-W29/2025-07-14/SQL 注入到 RCE - Fortinet FortiWeb FabricConnector (CVE-2025-25257).md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485108&idx=1&sn=5e17051f4252967b4072d091e4d81ddf": "2025-W29/2025-07-14/远程命令执行、文件上传、SQL 注入……Jeecg 一站式漏洞神器揭秘.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=1&sn=bb6888cc84ad4eba9d87a3ed0137acd8": "2025-W29/2025-07-14/APP_KEYs遭暴露，超600款Laravel应用易遭RCE攻击.md"
 }
