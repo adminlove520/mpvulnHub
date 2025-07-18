@@ -16881,5 +16881,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500101&idx=1&sn=b23db40f233deddedec40faa521a9637": "2025-W29/2025-07-18/红队视角：.NET Web.config 漏洞实战挖掘与利用.md",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507010&idx=1&sn=e31106df9ba776f8fb560b1276961a0c": "2025-W29/2025-07-18/如何通过 PDF 渲染将简单的 HTML 注入升级为 SSRF.md",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583863&idx=1&sn=247a5ef8a5281ed71aa75625259ef035": "2025-W29/2025-07-18/黑客正在利用Wing FTP服务器的关键RCE漏洞.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487007&idx=1&sn=970c607c01da42be4e8fd7696b20cd75": "2025-W29/2025-07-18/Apache服务器漏洞被黑客利用，Linuxsys挖矿病毒悄然蔓延.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487007&idx=1&sn=970c607c01da42be4e8fd7696b20cd75": "2025-W29/2025-07-18/Apache服务器漏洞被黑客利用，Linuxsys挖矿病毒悄然蔓延.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484515&idx=1&sn=d274ebd46203ed436d99ecc51abf3caf": "2025-W29/2025-07-18/【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689).md",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531828&idx=3&sn=ec3d214c56ba8b74d11fd852ec1a4271": "2025-W29/2025-07-18/CVE-2025-1729 - 使用 TPQMAssistant.exe 进行权限提升.md"
 }
